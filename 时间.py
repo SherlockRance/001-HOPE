@@ -1,6 +1,6 @@
 # -*- coding = utf-8 -*-
 # @Time : 2019/3/16 10:09
-# @Author : 余道远
+# @Author : SharelockRice
 # @File :From hope to the now.py
 # @Software : PyCharm
 import time
